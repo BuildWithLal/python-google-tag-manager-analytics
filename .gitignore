@@ -1,0 +1,13 @@
+# IDE generate files
+.idea
+
+# python 3 generate files
+__pycache__
+
+# python generate compiled files
+*.pyc
+*.py~
+
+Project Details.doc
+
+*.dat
