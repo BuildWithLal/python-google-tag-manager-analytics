@@ -55,7 +55,7 @@ python index.py --site_name MY_SITE_NAME --site_url MY_SITE_URL
 
 <br/>
 ##### What do you get?
-![Google Tag Manager Preview](https://lh3.googleusercontent.com/QFJ_RJin-qM0gRnuM-Q2lfiqqscBqC7oiHI7hlIcMiVHFP-SVSUYF5U9SL2fGYXzCQXuZPodPeEdtdlJRc-0nrcSeZaQYwXGGlWoRZP0olGNjC5-vJOyvgktnqoLf4dga3ZcoZeYLs4U0dCaZv8qn2a9Qb-3647QGLBt5g_Ujeeb32bEQo6Ni_vKE83GYWlflwZC0DxJ4tbnY8Amg3WhMVxcgBSatbGL3dnk2OGZ5fWE5pSmEGbasgs54VLpWY5R80HtQrX1iOeTBruUpsWl3xeCoZiA4mEiPtXO-QR8E-f2CCndRDJvhc_kqmS-nx9ZZG8e3cUWowfbtUOHd7yNbqXZeEN4VAVBWb39wkfn4bStLNuUUpNrl-6KGbgKSqWwqj3SiEz0EpPOYAZEIxPqYNInnIVSQDnflTWE7DnhrUza0q3IDSrBiZrndrfX6BPlhyU_ee8VLAN0yPltYWsci07JOFSLRK6ZaCEKVry3h7YC7o8eR6bBIia9Yr-gqUqykjg7wpEqRN-jKTNfhjsgxzq-_HIQi61YShewgmKbPVRC-R3rmj6XhhLbOic8QCATW3YYqDcGKzTc_asOHFkfbxjEwdACyvOXOmVsEhDRnGtPK-fvj1mf=w1084-h581-no)
+![Google Tag Manager Preview](http://i.imgur.com/uzeDj0b.png)
 
 <br/>
 ##### Tested Environment
