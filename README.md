@@ -14,15 +14,18 @@ If you're interested in using these features, request access to the beta.
 Please create a project on [Google Developer Console](https://console.developers.google.com/flows/enableapi?apiid=analytics&credential=client_key) and apply to [request access to beta](https://docs.google.com/forms/d/e/1FAIpQLSf01NWo9R-SOHLKDUH0U4gWHNDBIY-gEI-zqBMG1Hyh3_hHZw/viewform) before creating a web property to get tracking code.
 
 <br/>
+
 ##### Enable required APIs
 [Enable Google Tag Manager API](https://console.developers.google.com/start/api?id=tagmanager&credential=client_key)
 
 [Enable Google Analytics API](https://console.developers.google.com/flows/enableapi?apiid=analytics&credential=client_key)
 
 <br/>
+
 ##### Make required changes in settings.py
+
 ```python
-# enable/disable sending javascript code snippet in email.
+ #enable/disable sending javascript code snippet in email.
 SEND_CODE_SNIPPET_EMAIL = True
 
 # SMPT settings goes here...
