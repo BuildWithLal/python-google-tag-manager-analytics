@@ -44,24 +44,32 @@ GOOGLE_TAG_USAGE_CONTEXT = ['web']
 ```
 
 <br/>
+
 ##### Switch to project root directory and Install dependencies from requirements.txt file
+
 ```
 pip install -r requirements.txt
 ```
 
 <br/>
+
 ##### What command do i need to execute?
+
 ```
 # simply run from the command line
 python index.py --site_name MY_SITE_NAME --site_url MY_SITE_URL
 ```
 
 <br/>
+
 ##### What do you get?
+
 ![Google Tag Manager Preview](http://i.imgur.com/uzeDj0b.png)
 
 <br/>
+
 ##### Tested Environment
+
 ```
 Python 2.7
 Python 3.4
